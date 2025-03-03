@@ -15,7 +15,7 @@ While I haven't focused much on open-source contributions or building my online 
 - 🌍 Love to **travel and explore new places**
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidemess&show_icons=true&theme=aura)
 
 ## 📫 Connect with Me
 <!-- - 🌐 [Portfolio](Your Portfolio Link) -->
