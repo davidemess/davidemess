@@ -19,11 +19,10 @@ While I haven't focused much on open-source contributions or building my online 
 - 🚵‍♂️ Enjoy **mountain biking and hiking** in my free time
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidemess&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
-- 🌐 [Portfolio](Your Portfolio Link)
-- 🔗 [LinkedIn](Your LinkedIn Profile)
-- 🐦 [Twitter](Your Twitter Handle)
+<!-- - 🌐 [Portfolio](Your Portfolio Link) -->
+- 🔗 [LinkedIn]([Your LinkedIn Profile](https://www.linkedin.com/in/davide-messori/))
 
 Excited to embark on this open-source journey and connect with fellow developers! 🚀
